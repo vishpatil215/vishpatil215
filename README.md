@@ -88,23 +88,7 @@
 <br/>
 
 ## See my Contributions
-<div align="center">
-  <a href="https://github.com/ravi-pawar55/Sorting_Visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravi-pawar55&repo=Sorting_Visualizer" alt="Github Repo Card" />
-  </a>
-  <a href="https://github.com/ravi-pawar55/ERP_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravi-pawar55&repo=ERP_System" alt="Github Repo Card" />
-  </a>
-  <a href="https://github.com/ravi-pawar55/rcpit_gallery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravi-pawar55&repo=rcpit_gallery" alt="Github Repo Card" />
-  </a>
-  <a href="https://github.com/ravi-pawar55/Inventory_Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravi-pawar55&repo=Inventory_Management" alt="Github Repo Card" />
-  </a>
-  <a href="https://github.com/ravi-pawar55/Portfolio-Site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravi-pawar55&repo=Portfolio-Site" alt="Github Repo Card" />
-  </a>
-</div>
+
 
 <br/>
 <br/>
