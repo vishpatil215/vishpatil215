@@ -15,9 +15,7 @@
 <h3 align="center">Passion for programming ❤️</h3>
 <!-- <h4 align="center">My Portfolio: https://ravi-pawar-portfolio.netlify.app/ </h4> -->
 <div align="center">
-  <a align="center" href="https://drive.google.com/file/d/1qi3lUN5awiYhFWu5lWxG8uaYuwpR9Mk1/view">
-    <strong>My Resume</strong>
-  </a>
+
 </div>
 
 
